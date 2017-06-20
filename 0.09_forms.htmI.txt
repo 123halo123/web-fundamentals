@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<htmi>
+<head>
+	<title>forms</title>
+
+<h1>Bronz</h1>
+<p>make a simple from.</p>
+<div>
+    <form>
+    <p><label>Custermer Name: 
+
+
+
+
+
+
+</body>
+</html>
