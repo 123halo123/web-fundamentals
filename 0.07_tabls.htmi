@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tables</title>
+<title>Links</title>
+
+
+
+</head>
+<body>
+<h1>Tables</h1>
+
+
+<!--2-->
+<h1>Bonze</h1>
+<p>Creat a table with no styling</p>
+
+
+<table>
+	<tr>
+		<th>Name</th>
+	    <th>Occupation</th>
+	    <th>Years of Experieance</th>
+
+    </tr>
+    <tr>
+    	<td>Auri Rahimzadeh</td>
+    	<td>Software Architext20</td>
+    	<td>20</td>
+    </tr>
+    <tr>
+    	<td>Jenn Aikens</td>
+    	<td>Mansgement</td>
+    	<td>15</td>
+    </tr>
+
+
+<h2>Silver</h2>
+<p>Creat a table with a simple border</p>
+
+<table border="2">
+	<tr>
+		<th>Show</th>
+		<th>Genre</th>
+		<th>Rating</th>
+	</tr>
+	<tr>
+		<td>The Wlking Dead</td>
+		<td>Horror/Drama</td>
+		<td>R</td>
+	</tr>
+	<tr>
+		<td>Breaking Bad</td>
+		<td>Action/Suspense</td>
+		<td>R</td>
+	</tr>
+	
+
+
+
+
+
+
+</body>
+</html>
+
